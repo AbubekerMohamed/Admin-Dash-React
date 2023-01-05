@@ -16,6 +16,6 @@ This is a React App demonstrating an admin dashboard built to showcase best prac
   <tr>
     <th>ChartScreen[Desktop]</th>
   <tr>
-    <td> <img src="./screenshots/CharScreen[Desktop].png" ></td>
+    <td> <img src="./screenshots/ChartScreen[Desktop].png" ></td>
   </tr>
 </table>
